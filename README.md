@@ -1,6 +1,6 @@
 # Descripción del servicio
 
-Servicio 1: Recomendación de Donación
+### Servicio 1: Recomendación de Donación <br />
 La ONG a cargo del sistema quiere extender la posibilidad de donaciones a otras comunidades existentes. Para ello se requiere generar un servicio que dada una ubicación geográfica, propone los lugares dónde podés acercar donaciones.
 
 
